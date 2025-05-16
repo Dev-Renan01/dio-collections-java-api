@@ -1,9 +1,9 @@
 package Pesquisa;
 
 public class Livro {
-    private String titulo;
-    private String autor;
-    private int anoDepublicacao;
+        private String titulo;
+        private String autor;
+        private int anoDepublicacao;
 
 
     public Livro(String titulo, String autor, int anoDepublicacao) {
