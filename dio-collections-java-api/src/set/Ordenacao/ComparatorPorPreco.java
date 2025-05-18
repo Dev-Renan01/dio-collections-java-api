@@ -1,6 +1,5 @@
-package Ordenacao;
+package set.Ordenacao;
 
-import java.util.Collection;
 import java.util.Comparator;
 
 public class ComparatorPorPreco implements Comparator<Produto> {
